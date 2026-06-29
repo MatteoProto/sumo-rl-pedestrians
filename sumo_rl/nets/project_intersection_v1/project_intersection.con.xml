@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
+
+    <!-- Widening: two outer lanes feed the three approach lanes -->
+    <connection from="N_outer_in" to="N_in" fromLane="0" toLane="0"/>
+    <connection from="N_outer_in" to="N_in" fromLane="0" toLane="1"/>
+    <connection from="N_outer_in" to="N_in" fromLane="1" toLane="1"/>
+    <connection from="N_outer_in" to="N_in" fromLane="1" toLane="2"/>
+
+    <connection from="S_outer_in" to="S_in" fromLane="0" toLane="0"/>
+    <connection from="S_outer_in" to="S_in" fromLane="0" toLane="1"/>
+    <connection from="S_outer_in" to="S_in" fromLane="1" toLane="1"/>
+    <connection from="S_outer_in" to="S_in" fromLane="1" toLane="2"/>
+
+    <connection from="E_outer_in" to="E_in" fromLane="0" toLane="0"/>
+    <connection from="E_outer_in" to="E_in" fromLane="0" toLane="1"/>
+    <connection from="E_outer_in" to="E_in" fromLane="1" toLane="1"/>
+    <connection from="E_outer_in" to="E_in" fromLane="1" toLane="2"/>
+
+    <connection from="W_outer_in" to="W_in" fromLane="0" toLane="0"/>
+    <connection from="W_outer_in" to="W_in" fromLane="0" toLane="1"/>
+    <connection from="W_outer_in" to="W_in" fromLane="1" toLane="1"/>
+    <connection from="W_outer_in" to="W_in" fromLane="1" toLane="2"/>
+
+    <!-- J0 lane policy: lane 0 right/straight, lane 1 straight, lane 2 protected left -->
+
+    <!-- From North: right->West, straight->South, left->East -->
+    <connection from="N_in" to="W_out" fromLane="0" toLane="0"/>
+    <connection from="N_in" to="S_out" fromLane="0" toLane="0"/>
+    <connection from="N_in" to="S_out" fromLane="1" toLane="1"/>
+    <connection from="N_in" to="E_out" fromLane="2" toLane="1"/>
+
+    <!-- From South: right->East, straight->North, left->West -->
+    <connection from="S_in" to="E_out" fromLane="0" toLane="0"/>
+    <connection from="S_in" to="N_out" fromLane="0" toLane="0"/>
+    <connection from="S_in" to="N_out" fromLane="1" toLane="1"/>
+    <connection from="S_in" to="W_out" fromLane="2" toLane="1"/>
+
+    <!-- From East: right->North, straight->West, left->South -->
+    <connection from="E_in" to="N_out" fromLane="0" toLane="0"/>
+    <connection from="E_in" to="W_out" fromLane="0" toLane="0"/>
+    <connection from="E_in" to="W_out" fromLane="1" toLane="1"/>
+    <connection from="E_in" to="S_out" fromLane="2" toLane="1"/>
+
+    <!-- From West: right->South, straight->East, left->North -->
+    <connection from="W_in" to="S_out" fromLane="0" toLane="0"/>
+    <connection from="W_in" to="E_out" fromLane="0" toLane="0"/>
+    <connection from="W_in" to="E_out" fromLane="1" toLane="1"/>
+    <connection from="W_in" to="N_out" fromLane="2" toLane="1"/>
+
+    <!-- Outgoing continuity -->
+    <connection from="N_out" to="N_outer_out" fromLane="0" toLane="0"/>
+    <connection from="N_out" to="N_outer_out" fromLane="1" toLane="1"/>
+    <connection from="S_out" to="S_outer_out" fromLane="0" toLane="0"/>
+    <connection from="S_out" to="S_outer_out" fromLane="1" toLane="1"/>
+    <connection from="E_out" to="E_outer_out" fromLane="0" toLane="0"/>
+    <connection from="E_out" to="E_outer_out" fromLane="1" toLane="1"/>
+    <connection from="W_out" to="W_outer_out" fromLane="0" toLane="0"/>
+    <connection from="W_out" to="W_outer_out" fromLane="1" toLane="1"/>
+</connections>

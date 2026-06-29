@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+
+    <!-- Junction controlled by one traffic-light agent -->
+    <node id="J0" x="0.0" y="0.0" type="traffic_light"/>
+
+    <!-- Widening points: 2 lanes become 3 lanes before the junction -->
+    <node id="N1" x="0.0" y="70.0" type="priority"/>
+    <node id="S1" x="0.0" y="-70.0" type="priority"/>
+    <node id="E1" x="70.0" y="0.0" type="priority"/>
+    <node id="W1" x="-70.0" y="0.0" type="priority"/>
+
+    <!-- External boundary nodes -->
+    <node id="N0" x="0.0" y="300.0" type="priority"/>
+    <node id="S0" x="0.0" y="-300.0" type="priority"/>
+    <node id="E0" x="300.0" y="0.0" type="priority"/>
+    <node id="W0" x="-300.0" y="0.0" type="priority"/>
+</nodes>

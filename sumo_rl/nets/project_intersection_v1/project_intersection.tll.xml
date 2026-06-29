@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+    <!-- Four controllable green phases. Yellow phases are explicit for standalone SUMO tests. -->
+    <tlLogic id="J0" type="static" programID="project_v1" offset="0">
+        <phase duration="35" state="GGGrGGGrrrrrrrrr" name="NS_straight_right"/>
+        <phase duration="4"  state="yyyryyyrrrrrrrrr" name="NS_yellow"/>
+        <phase duration="15" state="rrrGrrrGrrrrrrrr" name="NS_left"/>
+        <phase duration="4"  state="rrryrrryrrrrrrrr" name="NS_left_yellow"/>
+        <phase duration="35" state="rrrrrrrrGGGrGGGr" name="EW_straight_right"/>
+        <phase duration="4"  state="rrrrrrrryyyryyyr" name="EW_yellow"/>
+        <phase duration="15" state="rrrrrrrrrrrGrrrG" name="EW_left"/>
+        <phase duration="4"  state="rrrrrrrrrrryrrry" name="EW_left_yellow"/>
+    </tlLogic>
+</additional>

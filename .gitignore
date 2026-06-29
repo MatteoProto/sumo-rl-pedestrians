@@ -113,3 +113,6 @@ settings.json
 *.csv
 /logs
 /wandb
+.DS_Store
+**/.DS_Store
+sumo_rl/nets/project_intersection_v1/outputs/*.xml

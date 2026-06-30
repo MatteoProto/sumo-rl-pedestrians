@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Generato automaticamente da generate_flows.py per la rete: cross.net.xml
+    Mix veicolare/pedonale parametrico, indipendente dalla geometria della rete.
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <include href="vtypes.xml"/>
+
+    <!-- ===================== ROTTE ===================== -->
+    <route id="r000_-E0_E1" edges="-E0 E1"/>
+    <route id="r001_-E0_E2" edges="-E0 E2"/>
+    <route id="r002_-E0_E3" edges="-E0 E3"/>
+    <route id="r003_-E1_E0" edges="-E1 E0"/>
+    <route id="r004_-E1_E2" edges="-E1 E2"/>
+    <route id="r005_-E1_E3" edges="-E1 E3"/>
+    <route id="r006_-E2_E0" edges="-E2 E0"/>
+    <route id="r007_-E2_E1" edges="-E2 E1"/>
+    <route id="r008_-E2_E3" edges="-E2 E3"/>
+    <route id="r009_-E3_E0" edges="-E3 E0"/>
+    <route id="r010_-E3_E1" edges="-E3 E1"/>
+    <route id="r011_-E3_E2" edges="-E3 E2"/>
+
+    <!-- ===================== FLUSSI VEICOLARI ===================== -->
+    <flow id="f000_auto_normale" route="r000_-E0_E1" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f000_auto_aggressivo" route="r000_-E0_E1" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f000_moto" route="r000_-E0_E1" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f001_auto_normale" route="r001_-E0_E2" type="auto_normale" begin="0" end="300" vehsPerHour="28.3" departLane="best" departSpeed="desired"/>
+    <flow id="f001_auto_aggressivo" route="r001_-E0_E2" type="auto_aggressivo" begin="0" end="300" vehsPerHour="9.45" departLane="best" departSpeed="desired"/>
+    <flow id="f001_auto_prudente" route="r001_-E0_E2" type="auto_prudente" begin="0" end="300" vehsPerHour="5.65" departLane="best" departSpeed="desired"/>
+    <flow id="f001_camion" route="r001_-E0_E2" type="camion" begin="0" end="300" vehsPerHour="3.75" departLane="best" departSpeed="desired"/>
+    <flow id="f001_moto" route="r001_-E0_E2" type="moto" begin="0" end="300" vehsPerHour="2.85" departLane="best" departSpeed="desired"/>
+    <flow id="f002_auto_normale" route="r002_-E0_E3" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f002_auto_aggressivo" route="r002_-E0_E3" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f002_moto" route="r002_-E0_E3" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f003_auto_normale" route="r003_-E1_E0" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f003_auto_aggressivo" route="r003_-E1_E0" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f003_moto" route="r003_-E1_E0" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f004_auto_normale" route="r004_-E1_E2" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f004_auto_aggressivo" route="r004_-E1_E2" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f004_moto" route="r004_-E1_E2" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f005_auto_normale" route="r005_-E1_E3" type="auto_normale" begin="0" end="300" vehsPerHour="28.3" departLane="best" departSpeed="desired"/>
+    <flow id="f005_auto_aggressivo" route="r005_-E1_E3" type="auto_aggressivo" begin="0" end="300" vehsPerHour="9.45" departLane="best" departSpeed="desired"/>
+    <flow id="f005_auto_prudente" route="r005_-E1_E3" type="auto_prudente" begin="0" end="300" vehsPerHour="5.65" departLane="best" departSpeed="desired"/>
+    <flow id="f005_camion" route="r005_-E1_E3" type="camion" begin="0" end="300" vehsPerHour="3.75" departLane="best" departSpeed="desired"/>
+    <flow id="f005_moto" route="r005_-E1_E3" type="moto" begin="0" end="300" vehsPerHour="2.85" departLane="best" departSpeed="desired"/>
+    <flow id="f006_auto_normale" route="r006_-E2_E0" type="auto_normale" begin="0" end="300" vehsPerHour="28.3" departLane="best" departSpeed="desired"/>
+    <flow id="f006_auto_aggressivo" route="r006_-E2_E0" type="auto_aggressivo" begin="0" end="300" vehsPerHour="9.45" departLane="best" departSpeed="desired"/>
+    <flow id="f006_auto_prudente" route="r006_-E2_E0" type="auto_prudente" begin="0" end="300" vehsPerHour="5.65" departLane="best" departSpeed="desired"/>
+    <flow id="f006_camion" route="r006_-E2_E0" type="camion" begin="0" end="300" vehsPerHour="3.75" departLane="best" departSpeed="desired"/>
+    <flow id="f006_moto" route="r006_-E2_E0" type="moto" begin="0" end="300" vehsPerHour="2.85" departLane="best" departSpeed="desired"/>
+    <flow id="f007_auto_normale" route="r007_-E2_E1" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f007_auto_aggressivo" route="r007_-E2_E1" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f007_moto" route="r007_-E2_E1" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f008_auto_normale" route="r008_-E2_E3" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f008_auto_aggressivo" route="r008_-E2_E3" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f008_moto" route="r008_-E2_E3" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f009_auto_normale" route="r009_-E3_E0" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f009_auto_aggressivo" route="r009_-E3_E0" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f009_moto" route="r009_-E3_E0" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+    <flow id="f010_auto_normale" route="r010_-E3_E1" type="auto_normale" begin="0" end="300" vehsPerHour="28.3" departLane="best" departSpeed="desired"/>
+    <flow id="f010_auto_aggressivo" route="r010_-E3_E1" type="auto_aggressivo" begin="0" end="300" vehsPerHour="9.45" departLane="best" departSpeed="desired"/>
+    <flow id="f010_auto_prudente" route="r010_-E3_E1" type="auto_prudente" begin="0" end="300" vehsPerHour="5.65" departLane="best" departSpeed="desired"/>
+    <flow id="f010_camion" route="r010_-E3_E1" type="camion" begin="0" end="300" vehsPerHour="3.75" departLane="best" departSpeed="desired"/>
+    <flow id="f010_moto" route="r010_-E3_E1" type="moto" begin="0" end="300" vehsPerHour="2.85" departLane="best" departSpeed="desired"/>
+    <flow id="f011_auto_normale" route="r011_-E3_E2" type="auto_normale" begin="0" end="300" vehsPerHour="13.64" departLane="best" departSpeed="desired"/>
+    <flow id="f011_auto_aggressivo" route="r011_-E3_E2" type="auto_aggressivo" begin="0" end="300" vehsPerHour="4.54" departLane="best" departSpeed="desired"/>
+    <flow id="f011_moto" route="r011_-E3_E2" type="moto" begin="0" end="300" vehsPerHour="1.82" departLane="best" departSpeed="desired"/>
+
+    <!-- ===================== FLUSSI PEDONALI ===================== -->
+    <personFlow id="pf000_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E0" to="E1"/>
+    </personFlow>
+    <personFlow id="pf000_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E0" to="E1"/>
+    </personFlow>
+    <personFlow id="pf001_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(25.0)">
+        <walk from="-E0" to="E2"/>
+    </personFlow>
+    <personFlow id="pf001_pedone_veloce" type="pedone_veloce" begin="0" end="300" period="exp(57.5)">
+        <walk from="-E0" to="E2"/>
+    </personFlow>
+    <personFlow id="pf001_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(87.5)">
+        <walk from="-E0" to="E2"/>
+    </personFlow>
+    <personFlow id="pf002_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E0" to="E3"/>
+    </personFlow>
+    <personFlow id="pf002_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E0" to="E3"/>
+    </personFlow>
+    <personFlow id="pf003_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E1" to="E0"/>
+    </personFlow>
+    <personFlow id="pf003_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E1" to="E0"/>
+    </personFlow>
+    <personFlow id="pf004_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E1" to="E2"/>
+    </personFlow>
+    <personFlow id="pf004_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E1" to="E2"/>
+    </personFlow>
+    <personFlow id="pf005_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(25.0)">
+        <walk from="-E1" to="E3"/>
+    </personFlow>
+    <personFlow id="pf005_pedone_veloce" type="pedone_veloce" begin="0" end="300" period="exp(57.5)">
+        <walk from="-E1" to="E3"/>
+    </personFlow>
+    <personFlow id="pf005_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(87.5)">
+        <walk from="-E1" to="E3"/>
+    </personFlow>
+    <personFlow id="pf006_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(25.0)">
+        <walk from="-E2" to="E0"/>
+    </personFlow>
+    <personFlow id="pf006_pedone_veloce" type="pedone_veloce" begin="0" end="300" period="exp(57.5)">
+        <walk from="-E2" to="E0"/>
+    </personFlow>
+    <personFlow id="pf006_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(87.5)">
+        <walk from="-E2" to="E0"/>
+    </personFlow>
+    <personFlow id="pf007_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E2" to="E1"/>
+    </personFlow>
+    <personFlow id="pf007_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E2" to="E1"/>
+    </personFlow>
+    <personFlow id="pf008_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E2" to="E3"/>
+    </personFlow>
+    <personFlow id="pf008_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E2" to="E3"/>
+    </personFlow>
+    <personFlow id="pf009_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E3" to="E0"/>
+    </personFlow>
+    <personFlow id="pf009_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E3" to="E0"/>
+    </personFlow>
+    <personFlow id="pf010_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(25.0)">
+        <walk from="-E3" to="E1"/>
+    </personFlow>
+    <personFlow id="pf010_pedone_veloce" type="pedone_veloce" begin="0" end="300" period="exp(57.5)">
+        <walk from="-E3" to="E1"/>
+    </personFlow>
+    <personFlow id="pf010_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(87.5)">
+        <walk from="-E3" to="E1"/>
+    </personFlow>
+    <personFlow id="pf011_pedone_normale" type="pedone_normale" begin="0" end="300" period="exp(45.0)">
+        <walk from="-E3" to="E2"/>
+    </personFlow>
+    <personFlow id="pf011_pedone_lento" type="pedone_lento" begin="0" end="300" period="exp(117.0)">
+        <walk from="-E3" to="E2"/>
+    </personFlow>
+
+</routes>

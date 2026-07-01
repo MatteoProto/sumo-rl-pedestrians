@@ -172,7 +172,7 @@
         <lane id="E3_2" index="2" disallow="pedestrian" speed="13.89" length="114.60" shape="-51.60,-10.40 -51.60,-125.00"/>
     </edge>
 
-    <tlLogic id="J3" type="actuated" programID="0" offset="0">
+    <tlLogic id="J3" type="static" programID="0" offset="0">
         <phase duration="20" state="rGGgrrrrrGGgrrrrrGrG" minDur="7"/>
         <phase duration="10" state="rGGgrrrrrGGgrrrrrrrr"/>
         <phase duration="25" state="rrrrrGGgrrrrrGGgGrGr" minDur="7"/>

@@ -181,6 +181,7 @@ class SumoEnvironment(gym.Env):
         conn.close()
 
         self.vehicles = dict()
+        self.pedestrians = dict()
         self.reward_range = (-float("inf"), float("inf"))
         self.episode = 0
         self.metrics = []
@@ -272,10 +273,15 @@ class SumoEnvironment(gym.Env):
 
         self._build_traffic_signals(self.sumo)
 
+
+        # added for pedestrian support
         self.vehicles = dict()
+        self.pedestrians = dict()
         self.num_arrived_vehicles = 0
         self.num_departed_vehicles = 0
         self.num_teleported_vehicles = 0
+        self.num_arrived_pedestrians = 0
+        self.num_departed_pedestrians = 0
 
         if self.single_agent:
             return self._compute_observations()[self.ts_ids[0]], self._compute_info()
@@ -416,16 +422,23 @@ class SumoEnvironment(gym.Env):
         """Return the action space of a traffic signal."""
         return self.traffic_signals[ts_id].action_space
 
+    # Added for pedestrian support
     def _sumo_step(self):
         self.sumo.simulationStep()
         self.num_arrived_vehicles += self.sumo.simulation.getArrivedNumber()
         self.num_departed_vehicles += self.sumo.simulation.getDepartedNumber()
         self.num_teleported_vehicles += self.sumo.simulation.getEndingTeleportNumber()
+        self.num_arrived_pedestrians += self.sumo.simulation.getArrivedPersonNumber()
+        self.num_departed_pedestrians += self.sumo.simulation.getDepartedPersonNumber()
 
+    # Added for pedestrian support
     def _get_system_info(self):
         vehicles = self.sumo.vehicle.getIDList()
+        pedestrians = self.sumo.person.getIDList()
         speeds = [self.sumo.vehicle.getSpeed(vehicle) for vehicle in vehicles]
+        pedestrian_speeds = [self.sumo.person.getSpeed(pedestrian) for pedestrian in pedestrians]
         waiting_times = [self.sumo.vehicle.getWaitingTime(vehicle) for vehicle in vehicles]
+        pedestrian_waiting_times = [self.sumo.person.getWaitingTime(pedestrian) for pedestrian in pedestrians]
         num_backlogged_vehicles = len(self.sumo.simulation.getPendingVehicles())
         return {
             "system_total_running": len(vehicles),
@@ -439,6 +452,16 @@ class SumoEnvironment(gym.Env):
             "system_total_waiting_time": sum(waiting_times),
             "system_mean_waiting_time": 0.0 if len(vehicles) == 0 else np.mean(waiting_times),
             "system_mean_speed": 0.0 if len(vehicles) == 0 else np.mean(speeds),
+
+            "system_total_running_pedestrians": len(pedestrians),
+            "system_total_stopped_pedestrians": sum(
+                int(speed < 0.01) for speed in pedestrian_speeds #lower threshold for pedestrians
+            ),
+            "system_total_arrived_pedestrians": self.num_arrived_pedestrians,
+            "system_total_departed_pedestrians": self.num_departed_pedestrians,
+            "system_total_waiting_time_pedestrians": sum(pedestrian_waiting_times),
+            "system_mean_waiting_time_pedestrians": 0.0 if len(pedestrians) == 0 else np.mean(pedestrian_waiting_times),
+            "system_mean_speed_pedestrians": 0.0 if len(pedestrians) == 0 else np.mean(pedestrian_speeds),
         }
 
     def _get_per_agent_info(self):

@@ -44,6 +44,7 @@ class TrafficSignal:
 
     # Default min gap of SUMO (see https://sumo.dlr.de/docs/Simulation/Safety.html). Should this be parameterized?
     MIN_GAP = 2.5
+    MIN_GAP_PEDESTRIAN = 0.5
 
     def __init__(
         self,
@@ -103,17 +104,19 @@ class TrafficSignal:
 
         self.reward_space = spaces.Box(low=-np.inf, high=np.inf, shape=(self.reward_dim,), dtype=np.float32)
 
-        self.observation_fn = self.env.observation_class(self)
-
         self._build_phases()
 
         self.lanes = list(
             dict.fromkeys(self.sumo.trafficlight.getControlledLanes(self.id))
         )  # Remove duplicates and keep order
+        # Get lane types (pedestrian or vehicle) used for different computations
+        self.lanes_type = {lane: "pedestrian" if self.sumo.lane.getAllowed(lane) == ('pedestrian',) else "vehicle" for lane in self.lanes}
         self.out_lanes = [link[0][1] for link in self.sumo.trafficlight.getControlledLinks(self.id) if link]
         self.out_lanes = list(set(self.out_lanes))
+        self.out_lanes_type = {lane: "pedestrian" if self.sumo.lane.getAllowed(lane) == ('pedestrian',) else "vehicle" for lane in self.out_lanes}
         self.lanes_length = {lane: self.sumo.lane.getLength(lane) for lane in self.lanes + self.out_lanes}
 
+        self.observation_fn = self.env.observation_class(self)
         self.observation_space = self.observation_fn.observation_space()
         self.action_space = spaces.Discrete(self.num_green_phases)
 
@@ -243,12 +246,9 @@ class TrafficSignal:
         observation = np.array(phase_id + min_green + density + queue, dtype=np.float32)
         return observation
 
+    """
     def get_accumulated_waiting_time_per_lane(self) -> List[float]:
-        """Returns the accumulated waiting time per lane.
 
-        Returns:
-            List[float]: List of accumulated waiting time of each intersection lane.
-        """
         wait_time_per_lane = []
         for lane in self.lanes:
             veh_list = self.sumo.lane.getLastStepVehicleIDs(lane)
@@ -264,7 +264,53 @@ class TrafficSignal:
                     )
                 wait_time += self.env.vehicles[veh][veh_lane]
             wait_time_per_lane.append(wait_time)
+        return wait_time_per_lane """
+    
+    def get_accumulated_waiting_time_per_lane(self) -> List[float]:
+        """Returns the accumulated waiting time per lane.
+
+        Returns:
+            List[float]: List of accumulated waiting time of each intersection lane.
+        """
+        wait_time_per_lane = []
+        for lane in self.lanes:
+            wait_time = self.get_lane_accumulated_waiting_time_pedestrians(lane) if self.lanes_type[lane] == "pedestrian" else self.get_lane_accumulated_waiting_time_vehicles(lane)
+            wait_time_per_lane.append(wait_time)
         return wait_time_per_lane
+
+    def get_lane_accumulated_waiting_time_vehicles(self, lane) -> float:
+        veh_list = self.sumo.lane.getLastStepVehicleIDs(lane)
+        wait_time = 0.0
+        for veh in veh_list:
+            veh_lane = self.sumo.vehicle.getLaneID(veh)
+            acc = self.sumo.vehicle.getAccumulatedWaitingTime(veh)
+            if veh not in self.env.vehicles:
+                self.env.vehicles[veh] = {veh_lane: acc}
+            else:
+                self.env.vehicles[veh][veh_lane] = acc - sum(
+                    [self.env.vehicles[veh][lane] for lane in self.env.vehicles[veh].keys() if lane != veh_lane]
+                )
+            wait_time += self.env.vehicles[veh][veh_lane]
+        return wait_time
+
+    def get_lane_accumulated_waiting_time_pedestrians(self, lane) -> float:
+        edge_id = self.sumo.lane.getEdgeID(lane)
+        ped_list = self.sumo.edge.getLastStepPersonIDs(edge_id)
+        wait_time = 0.0
+        for ped in ped_list:
+            wait_time += self.sumo.person.getWaitingTime(ped)
+        return wait_time
+    
+    """
+    def get_average_speed(self) -> float:
+        avg_speed = 0.0
+        vehs = self._get_veh_list()
+        if len(vehs) == 0:
+            return 1.0
+        for v in vehs:
+            avg_speed += self.sumo.vehicle.getSpeed(v) / self.sumo.vehicle.getAllowedSpeed(v)
+        return avg_speed / len(vehs)
+    """
 
     def get_average_speed(self) -> float:
         """Returns the average speed normalized by the maximum allowed speed of the vehicles in the intersection.
@@ -273,64 +319,123 @@ class TrafficSignal:
         """
         avg_speed = 0.0
         vehs = self._get_veh_list()
-        if len(vehs) == 0:
+        peds = self._get_ped_list()
+        valid_peds = [p for p in peds if self.sumo.person.getMaxSpeed(p) > 0]
+        
+        if len(vehs) == 0 and len(valid_peds) == 0:
             return 1.0
         for v in vehs:
             avg_speed += self.sumo.vehicle.getSpeed(v) / self.sumo.vehicle.getAllowedSpeed(v)
-        return avg_speed / len(vehs)
+        for p in valid_peds:
+            avg_speed += self.sumo.person.getSpeed(p) / self.sumo.person.getMaxSpeed(p)
+        return avg_speed / (len(vehs) + len(valid_peds))
 
     def get_pressure(self):
         """Returns the pressure (#veh leaving - #veh approaching) of the intersection."""
-        return sum(self.sumo.lane.getLastStepVehicleNumber(lane) for lane in self.out_lanes) - sum(
-            self.sumo.lane.getLastStepVehicleNumber(lane) for lane in self.lanes
+        return sum(self.sumo.lane.getLastStepVehicleNumber(lane) for lane in self.out_lanes if self.out_lanes_type.get(lane) == "vehicle") - sum(
+            self.sumo.lane.getLastStepVehicleNumber(lane) for lane in self.lanes if self.lanes_type.get(lane) == "vehicle"
         )
 
-    def get_out_lanes_density(self) -> List[float]:
-        """Returns the density of the vehicles in the outgoing lanes of the intersection."""
+    """def get_out_lanes_density(self) -> List[float]:
         lanes_density = [
             self.sumo.lane.getLastStepVehicleNumber(lane)
             / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
             for lane in self.out_lanes
         ]
         return [min(1, density) for density in lanes_density]
-
+        
     def get_lanes_density(self) -> List[float]:
-        """Returns the density [0,1] of the vehicles in the incoming lanes of the intersection.
-
-        Obs: The density is computed as the number of vehicles divided by the number of vehicles that could fit in the lane.
-        """
         lanes_density = [
             self.sumo.lane.getLastStepVehicleNumber(lane)
             / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
             for lane in self.lanes
         ]
         return [min(1, density) for density in lanes_density]
+        
+        """
+    
+    def get_lanes_density(self) -> List[float]:
+        """Returns the density [0,1] of the vehicles in the incoming lanes of the intersection.
+
+        Obs: The density is computed as the number of vehicles divided by the number of vehicles that could fit in the lane.
+        """
+        lanes_density = [
+            self.get_lane_density(lane)
+            for lane in self.lanes
+        ]
+        return [min(1, density) for density in lanes_density]
+
+    def get_out_lanes_density(self) -> List[float]:
+            """Returns the density of the vehicles in the outgoing lanes of the intersection."""
+            lanes_density = [
+                self.get_lane_density(lane)
+                for lane in self.out_lanes
+            ]
+            return [min(1, density) for density in lanes_density]
+    
+    def get_lane_density(self, lane: str) -> float:
+        lane_type = self.lanes_type.get(lane) or self.out_lanes_type.get(lane)
+        if lane_type == "vehicle":
+            return self.sumo.lane.getLastStepVehicleNumber(lane) / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
+        elif lane_type == "pedestrian":
+            edge_id = self.sumo.lane.getEdgeID(lane)
+            n = len(self.sumo.edge.getLastStepPersonIDs(edge_id))
+            capacity = self.lanes_length[lane] / self.MIN_GAP_PEDESTRIAN
+            return n / capacity if capacity > 0 else 0.0
+        return 0.0
+
+    """def get_lanes_queue(self) -> List[float]:
+        lanes_queue = [
+            self.sumo.lane.getLastStepHaltingNumber(lane)
+            / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
+            for lane in self.lanes
+        ]
+        return [min(1, queue) for queue in lanes_queue]"""
 
     def get_lanes_queue(self) -> List[float]:
         """Returns the queue [0,1] of the vehicles in the incoming lanes of the intersection.
 
         Obs: The queue is computed as the number of vehicles halting divided by the number of vehicles that could fit in the lane.
         """
-        lanes_queue = [
-            self.sumo.lane.getLastStepHaltingNumber(lane)
-            / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
-            for lane in self.lanes
-        ]
-        return [min(1, queue) for queue in lanes_queue]
+        return [min(1, self.get_lane_queue(lane)) for lane in self.lanes]
+    
+    def get_lane_queue(self, lane: str) -> float:
+        lane_type = self.lanes_type.get(lane) or self.out_lanes_type.get(lane)
+        if lane_type == "vehicle":
+            return self.sumo.lane.getLastStepHaltingNumber(lane) / (self.lanes_length[lane] / (self.MIN_GAP + self.sumo.lane.getLastStepLength(lane)))
+        elif lane_type == "pedestrian":
+            edge_id = self.sumo.lane.getEdgeID(lane)
+            persons = self.sumo.edge.getLastStepPersonIDs(edge_id)
+            n_waiting = sum(1 for p in persons if self.sumo.person.getWaitingTime(p) > 0)
+            capacity = self.lanes_length[lane] / self.MIN_GAP_PEDESTRIAN
+            return n_waiting / capacity if capacity > 0 else 0.0
+        return 0.0
 
     def get_total_queued(self) -> int:
         """Returns the total number of vehicles halting in the intersection."""
-        return sum(self.sumo.lane.getLastStepHaltingNumber(lane) for lane in self.lanes)
+        vehs = sum(self.sumo.lane.getLastStepHaltingNumber(lane) for lane in self.lanes if self.lanes_type.get(lane) == "vehicle")
+        peds = sum(
+            sum(1 for p in self.sumo.edge.getLastStepPersonIDs(self.sumo.lane.getEdgeID(lane)) if self.sumo.person.getWaitingTime(p) > 0)
+            for lane in self.lanes if self.lanes_type.get(lane) == "pedestrian"
+        )
+        return vehs + peds
 
     def get_total_co2(self) -> float:
         """Returns the total CO2 emissions (mg/s) of the vehicles in the incoming lanes of the intersection."""
-        return sum(self.sumo.lane.getCO2Emission(lane) for lane in self.lanes)
+        return sum(self.sumo.lane.getCO2Emission(lane) for lane in self.lanes if self.lanes_type.get(lane) == "vehicle")
 
     def _get_veh_list(self):
         veh_list = []
         for lane in self.lanes:
             veh_list += self.sumo.lane.getLastStepVehicleIDs(lane)
         return veh_list
+    
+    def _get_ped_list(self):
+        edges = set(self.sumo.lane.getEdgeID(lane) for lane in self.lanes)
+        ped_list = []
+        for edge_id in edges:
+            ped_list += self.sumo.edge.getLastStepPersonIDs(edge_id)
+        return ped_list
 
     @classmethod
     def register_reward_fn(cls, fn: Callable):

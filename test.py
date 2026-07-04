@@ -3,9 +3,9 @@ from sumo_rl import SumoEnvironment
 
 ROOT = Path(__file__).parent
 
-net = ROOT / "sumo_rl" / "nets" / "single-intersection" / "single-intersection.net.xml"
+net = ROOT / "sumo_rl" / "nets" / "nostri" / "cross.net.xml"
 
-route = ROOT / "sumo_rl" / "nets" / "single-intersection" / "single-intersection.rou.xml"
+route = ROOT / "sumo_rl" / "nets" / "nostri" / "cross_flows.rou.xml"
 
 env = SumoEnvironment(
     net_file=str(net),

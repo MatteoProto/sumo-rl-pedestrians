@@ -174,11 +174,17 @@
 
     <tlLogic id="J3" type="static" programID="0" offset="0">
         <phase duration="20" state="rGGgrrrrrGGgrrrrrGrG" minDur="7"/>
+        <phase duration="10" state="rGGgrrrrrGGgrrrrrrrr"/>
         <phase duration="25" state="rrrrrGGgrrrrrGGgGrGr" minDur="7"/>
+        <phase duration="5"  state="rrrrrGGgrrrrrGGgrrrr"/>
         <phase duration="20" state="gGGgrrrrrrrrrrrrrGrG" minDur="7"/>
+        <phase duration="5"  state="GGGGrrrrrrrrrrrrrrrr"/>
         <phase duration="25" state="rrrrgGGgrrrrrrrrGrGr" minDur="7"/>
+        <phase duration="5"  state="rrrrGGGGrrrrrrrrrrrr"/>
         <phase duration="20" state="rrrrrrrrgGGgrrrrrGrG" minDur="7"/>
+        <phase duration="5"  state="rrrrrrrrGGGGrrrrrrrr"/>
         <phase duration="25" state="rrrrrrrrrrrrgGGgGrGr" minDur="7"/>
+        <phase duration="5"  state="rrrrrrrrrrrrGGGGrrrr"/>
         <phase duration="30" state="GrrrGrrrGrrrGrrrrrrr" minDur="7"/>
     </tlLogic>
 

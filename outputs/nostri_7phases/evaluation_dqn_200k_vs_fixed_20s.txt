@@ -1,0 +1,1212 @@
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 22ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 56 ACT 28 BUF 0)                   Step #200.00 (1ms ~= 1000.00*RT, ~30000.00UPS, TraCI: 9ms, vehicles TOT 109 ACT 30 BUF 1) Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 155 ACT 39 BUF 5)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 54 ACT 26 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 100 ACT 36 BUF 1)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 139 ACT 43 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 41 ACT 16 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 91 ACT 27 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 144 ACT 43 BUF 2)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 58 ACT 25 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 113 ACT 37 BUF 1)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 160 ACT 41 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 1)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 54 ACT 17 BUF 0)                   Warning: Vehicle 'f010_auto_normale.12' performs emergency braking on lane ':J3_9_0' with decel=9.00, wished=4.50, severity=1.00, time=152.00.
+Step #200.00 (1ms ~= 1000.00*RT, ~28000.00UPS, TraCI: 9ms, vehicles TOT 112 ACT 28 BUF 0) Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 154 ACT 31 BUF 1)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 57 ACT 29 BUF 2)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 106 ACT 34 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 155 ACT 43 BUF 3)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 49 ACT 24 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 105 ACT 36 BUF 2)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 148 ACT 35 BUF 7)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 53 ACT 29 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 98 ACT 29 BUF 3)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 148 ACT 40 BUF 4)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 60 ACT 31 BUF 0)                  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 101 ACT 28 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 150 ACT 31 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 53 ACT 25 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 102 ACT 31 BUF 1)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 151 ACT 33 BUF 1)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 45 ACT 14 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 96 ACT 28 BUF 2)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 127 ACT 25 BUF 1)                  
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 49 ACT 20 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 95 ACT 29 BUF 5)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 146 ACT 41 BUF 13)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 55 ACT 22 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 92 ACT 36 BUF 1)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 135 ACT 39 BUF 6)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 66 ACT 28 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 112 ACT 38 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 162 ACT 45 BUF 2)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 49 ACT 18 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 102 ACT 29 BUF 4)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 142 ACT 27 BUF 2)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 41ms, vehicles TOT 2 ACT 2 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 59 ACT 25 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 102 ACT 25 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 148 ACT 30 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 59 ACT 25 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 103 ACT 29 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 140 ACT 36 BUF 13)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 48 ACT 16 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 107 ACT 35 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 148 ACT 32 BUF 2)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 47 ACT 24 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 95 ACT 31 BUF 2)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 142 ACT 33 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 52 ACT 23 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 106 ACT 42 BUF 8)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 142 ACT 37 BUF 6)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 49 ACT 22 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 91 ACT 33 BUF 0)                  Warning: Person 'pf006.7' is jammed on edge ':J3_c0', time=296.00.
+Warning: Person 'pf006.6' is jammed on edge ':J3_c0', time=296.00.
+Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 142 ACT 33 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 43 ACT 15 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 98 ACT 33 BUF 0)                   Step #300.00 (1ms ~= 1000.00*RT, ~32000.00UPS, TraCI: 9ms, vehicles TOT 142 ACT 32 BUF 0) 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (1ms ~= 1000.00*RT, ~23000.00UPS, TraCI: 8ms, vehicles TOT 60 ACT 23 BUF 0)  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 102 ACT 24 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 153 ACT 35 BUF 3)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 46 ACT 19 BUF 1)                   Step #200.00 (1ms ~= 1000.00*RT, ~33000.00UPS, TraCI: 9ms, vehicles TOT 101 ACT 33 BUF 0) Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 143 ACT 43 BUF 8)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (1ms ~= 1000.00*RT, ~32000.00UPS, TraCI: 9ms, vehicles TOT 58 ACT 32 BUF 0)  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 97 ACT 35 BUF 0)                  Step #300.00 (1ms ~= 1000.00*RT, ~40000.00UPS, TraCI: 11ms, vehicles TOT 143 ACT 40 BUF 0)
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #100.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 46 ACT 13 BUF 0)                   Step #200.00 (1ms ~= 1000.00*RT, ~30000.00UPS, TraCI: 9ms, vehicles TOT 102 ACT 30 BUF 0) Step #300.00 (1ms ~= 1000.00*RT, ~36000.00UPS, TraCI: 11ms, vehicles TOT 152 ACT 36 BUF 2)
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 45 ACT 16 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 106 ACT 32 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 153 ACT 42 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 57 ACT 29 BUF 2)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 106 ACT 35 BUF 4)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 150 ACT 37 BUF 3)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 31 ACT 11 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 73 ACT 23 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 127 ACT 36 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 41 ACT 18 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 83 ACT 18 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 135 ACT 36 BUF 2)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 46 ACT 23 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 91 ACT 37 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 130 ACT 34 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 42 ACT 26 BUF 2)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 96 ACT 43 BUF 0)                  Step #300.00 (1ms ~= 1000.00*RT, ~45000.00UPS, TraCI: 20ms, vehicles TOT 144 ACT 45 BUF 7)
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 52 ACT 26 BUF 1)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 104 ACT 46 BUF 1)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 140 ACT 36 BUF 18)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 54 ACT 28 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 104 ACT 34 BUF 2)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 144 ACT 40 BUF 10)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 49 ACT 20 BUF 0)                   Step #200.00 (1ms ~= 1000.00*RT, ~40000.00UPS, TraCI: 11ms, vehicles TOT 98 ACT 40 BUF 0) Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 146 ACT 40 BUF 3)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 2 ACT 2 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 47 ACT 30 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 94 ACT 28 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 141 ACT 40 BUF 11)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 51 ACT 29 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 99 ACT 41 BUF 10)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 144 ACT 41 BUF 22)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 36 ACT 15 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 82 ACT 37 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 129 ACT 39 BUF 9)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 48 ACT 29 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 99 ACT 34 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 142 ACT 39 BUF 3)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 41 ACT 15 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 79 ACT 26 BUF 4)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 121 ACT 31 BUF 7)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 55 ACT 34 BUF 5)                  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 107 ACT 36 BUF 2)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 151 ACT 48 BUF 7)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 40 ACT 20 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 81 ACT 27 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 117 ACT 30 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 61 ACT 30 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 113 ACT 40 BUF 4)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 155 ACT 44 BUF 5)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 51 ACT 29 BUF 1)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 98 ACT 39 BUF 1)                  Step #300.00 (1ms ~= 1000.00*RT, ~46000.00UPS, TraCI: 13ms, vehicles TOT 147 ACT 46 BUF 13
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 0 ACT 0 BUF 0)                     
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (1ms ~= 1000.00*RT, ~39000.00UPS, TraCI: 10ms, vehicles TOT 61 ACT 39 BUF 0) Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 103 ACT 45 BUF 11)                Step #300.00 (0ms ?*RT. ?UPS, TraCI: 19ms, vehicles TOT 145 ACT 44 BUF 27)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 51 ACT 27 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 109 ACT 51 BUF 1)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 143 ACT 48 BUF 19)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 44 ACT 20 BUF 1)                   Step #200.00 (1ms ~= 1000.00*RT, ~43000.00UPS, TraCI: 8ms, vehicles TOT 93 ACT 43 BUF 1)  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 139 ACT 49 BUF 12)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 47 ACT 22 BUF 0)                   Step #200.00 (1ms ~= 1000.00*RT, ~28000.00UPS, TraCI: 8ms, vehicles TOT 91 ACT 28 BUF 0)  Step #300.00 (1ms ~= 1000.00*RT, ~34000.00UPS, TraCI: 10ms, vehicles TOT 141 ACT 34 BUF 5)
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 62 ACT 39 BUF 3)                  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 105 ACT 42 BUF 2)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 146 ACT 40 BUF 8)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 39 ACT 18 BUF 1)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 87 ACT 38 BUF 0)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 133 ACT 42 BUF 9)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 0 ACT 0 BUF 0)                       Step #100.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 59 ACT 32 BUF 0)                  Warning: Vehicle 'f010_auto_aggressivo.4' performs emergency braking on lane ':J3_9_0' with decel=9.00, wished=5.50, severity=1.00, time=162.00.
+Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 103 ACT 28 BUF 1)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 150 ACT 40 BUF 1)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (1ms ~= 1000.00*RT, ~29000.00UPS, TraCI: 8ms, vehicles TOT 50 ACT 29 BUF 0)  Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 104 ACT 44 BUF 5)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 145 ACT 45 BUF 9)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 41 ACT 23 BUF 2)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 96 ACT 38 BUF 2)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 137 ACT 40 BUF 16)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 43 ACT 26 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 88 ACT 26 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 139 ACT 35 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 44 ACT 22 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 14ms, vehicles TOT 105 ACT 48 BUF 2)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 142 ACT 40 BUF 11)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 2 ACT 2 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 63 ACT 31 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 105 ACT 30 BUF 0)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 141 ACT 32 BUF 0)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 47 ACT 22 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 98 ACT 43 BUF 4)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 13ms, vehicles TOT 141 ACT 47 BUF 6)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 44 ACT 22 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 96 ACT 45 BUF 2)                  Step #300.00 (0ms ?*RT. ?UPS, TraCI: 12ms, vehicles TOT 135 ACT 42 BUF 11)                
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 49 ACT 25 BUF 0)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 9ms, vehicles TOT 87 ACT 23 BUF 0)                   Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 131 ACT 33 BUF 6)                 
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 7ms, vehicles TOT 0 ACT 0 BUF 0)                      
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 1 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 5 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 4 when switching to phase 4.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 8 when switching to phase 5.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 13 when switching to phase 6.
+Warning: Missing yellow phase in tlLogic 'J3', program '0' for tl-index 0 when switching to phase 0.
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 1 ACT 1 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, TraCI: 8ms, vehicles TOT 54 ACT 28 BUF 2)                   Step #200.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 103 ACT 39 BUF 6)                 Step #300.00 (0ms ?*RT. ?UPS, TraCI: 11ms, vehicles TOT 147 ACT 39 BUF 9)                 
+Rete: /Users/rosarioruisi/Desktop/unipi/Second Year/SYMBOLIC AND EVOLUTIONARY ARTIFICIAL INTELLIGENCE/sumo-rl-pedestrians-clean/sumo_rl/nets/nostri/cross.net.xml
+Route: /Users/rosarioruisi/Desktop/unipi/Second Year/SYMBOLIC AND EVOLUTIONARY ARTIFICIAL INTELLIGENCE/sumo-rl-pedestrians-clean/sumo_rl/nets/nostri/cross_flows.rou.xml
+Modello DQN: /Users/rosarioruisi/Desktop/unipi/Second Year/SYMBOLIC AND EVOLUTIONARY ARTIFICIAL INTELLIGENCE/sumo-rl-pedestrians-clean/outputs/nostri_7phases/dqn_200000_model.zip
+Episodi: 30
+Durata simulazione: 300 secondi
+Delta time: 5 secondi
+
+============================================================
+Valutazione: DQN
+============================================================
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  1 | reward=-9.590 | attesa veicoli=7.051 | attesa pedoni=0.000 | veicoli arrivati=116 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  2 | reward=-9.670 | attesa veicoli=2.814 | attesa pedoni=0.625 | veicoli arrivati=96 | pedoni arrivati=33 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  3 | reward=-5.810 | attesa veicoli=4.140 | attesa pedoni=0.000 | veicoli arrivati=101 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  4 | reward=-7.060 | attesa veicoli=4.146 | attesa pedoni=0.080 | veicoli arrivati=119 | pedoni arrivati=24 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  5 | reward=-8.000 | attesa veicoli=18.742 | attesa pedoni=0.577 | veicoli arrivati=123 | pedoni arrivati=34 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  6 | reward=-4.950 | attesa veicoli=2.628 | attesa pedoni=0.031 | veicoli arrivati=112 | pedoni arrivati=30 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  7 | reward=-5.280 | attesa veicoli=5.371 | attesa pedoni=0.067 | veicoli arrivati=113 | pedoni arrivati=27 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  8 | reward=-5.080 | attesa veicoli=3.950 | attesa pedoni=0.069 | veicoli arrivati=108 | pedoni arrivati=28 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  9 | reward=-3.150 | attesa veicoli=2.323 | attesa pedoni=0.929 | veicoli arrivati=119 | pedoni arrivati=23 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 10 | reward=-2.540 | attesa veicoli=3.394 | attesa pedoni=0.000 | veicoli arrivati=118 | pedoni arrivati=23 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 11 | reward=-5.910 | attesa veicoli=9.400 | attesa pedoni=0.000 | veicoli arrivati=102 | pedoni arrivati=30 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 12 | reward=-7.270 | attesa veicoli=7.000 | attesa pedoni=0.000 | veicoli arrivati=105 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 13 | reward=-7.270 | attesa veicoli=4.769 | attesa pedoni=0.333 | veicoli arrivati=96 | pedoni arrivati=21 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 14 | reward=-5.460 | attesa veicoli=4.889 | attesa pedoni=0.941 | veicoli arrivati=117 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 15 | reward=-6.290 | attesa veicoli=3.481 | attesa pedoni=0.226 | veicoli arrivati=115 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 16 | reward=-3.540 | attesa veicoli=4.900 | attesa pedoni=2.184 | veicoli arrivati=118 | pedoni arrivati=23 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 17 | reward=-6.390 | attesa veicoli=3.500 | attesa pedoni=0.148 | veicoli arrivati=104 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 18 | reward=-4.700 | attesa veicoli=5.594 | attesa pedoni=0.237 | veicoli arrivati=116 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 19 | reward=-4.620 | attesa veicoli=2.121 | attesa pedoni=0.500 | veicoli arrivati=109 | pedoni arrivati=23 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 20 | reward=-5.030 | attesa veicoli=2.838 | attesa pedoni=0.000 | veicoli arrivati=105 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 21 | reward=-4.410 | attesa veicoli=4.879 | attesa pedoni=0.586 | veicoli arrivati=109 | pedoni arrivati=21 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 22 | reward=-4.330 | attesa veicoli=1.125 | attesa pedoni=0.091 | veicoli arrivati=110 | pedoni arrivati=28 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 23 | reward=-6.450 | attesa veicoli=10.686 | attesa pedoni=0.000 | veicoli arrivati=118 | pedoni arrivati=24 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 24 | reward=-9.240 | attesa veicoli=4.628 | attesa pedoni=0.381 | veicoli arrivati=100 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 25 | reward=-6.640 | attesa veicoli=5.250 | attesa pedoni=0.593 | veicoli arrivati=103 | pedoni arrivati=21 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 26 | reward=-9.430 | attesa veicoli=8.639 | attesa pedoni=0.727 | veicoli arrivati=116 | pedoni arrivati=18 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 27 | reward=-7.230 | attesa veicoli=2.976 | attesa pedoni=0.000 | veicoli arrivati=111 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 28 | reward=-6.770 | attesa veicoli=6.324 | attesa pedoni=1.870 | veicoli arrivati=113 | pedoni arrivati=17 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 29 | reward=-5.080 | attesa veicoli=4.278 | attesa pedoni=0.000 | veicoli arrivati=91 | pedoni arrivati=26 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 30 | reward=-4.290 | attesa veicoli=3.083 | attesa pedoni=0.276 | veicoli arrivati=99 | pedoni arrivati=14 | teleport=0
+
+============================================================
+Valutazione: Fixed traffic light
+============================================================
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  1 | reward=-9.800 | attesa veicoli=20.118 | attesa pedoni=1.324 | veicoli arrivati=96 | pedoni arrivati=32 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  2 | reward=-16.320 | attesa veicoli=15.822 | attesa pedoni=3.657 | veicoli arrivati=99 | pedoni arrivati=29 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  3 | reward=-13.850 | attesa veicoli=19.472 | attesa pedoni=0.789 | veicoli arrivati=104 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  4 | reward=-13.490 | attesa veicoli=22.300 | attesa pedoni=1.805 | veicoli arrivati=104 | pedoni arrivati=27 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  5 | reward=-9.540 | attesa veicoli=18.925 | attesa pedoni=3.524 | veicoli arrivati=106 | pedoni arrivati=21 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  6 | reward=-12.540 | attesa veicoli=23.450 | attesa pedoni=2.056 | veicoli arrivati=101 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  7 | reward=-15.080 | attesa veicoli=22.512 | attesa pedoni=0.385 | veicoli arrivati=103 | pedoni arrivati=26 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  8 | reward=-17.340 | attesa veicoli=26.974 | attesa pedoni=1.913 | veicoli arrivati=90 | pedoni arrivati=34 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio  9 | reward=-10.530 | attesa veicoli=10.923 | attesa pedoni=0.438 | veicoli arrivati=103 | pedoni arrivati=14 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 10 | reward=-11.530 | attesa veicoli=33.516 | attesa pedoni=0.000 | veicoli arrivati=90 | pedoni arrivati=29 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 11 | reward=-17.160 | attesa veicoli=18.396 | attesa pedoni=1.829 | veicoli arrivati=103 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 12 | reward=-5.670 | attesa veicoli=12.067 | attesa pedoni=2.080 | veicoli arrivati=87 | pedoni arrivati=22 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 13 | reward=-16.150 | attesa veicoli=15.705 | attesa pedoni=1.464 | veicoli arrivati=111 | pedoni arrivati=27 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 14 | reward=-12.610 | attesa veicoli=15.370 | attesa pedoni=1.711 | veicoli arrivati=101 | pedoni arrivati=22 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 15 | reward=-27.810 | attesa veicoli=25.091 | attesa pedoni=0.750 | veicoli arrivati=101 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 16 | reward=-20.340 | attesa veicoli=19.604 | attesa pedoni=2.400 | veicoli arrivati=95 | pedoni arrivati=18 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 17 | reward=-20.000 | attesa veicoli=18.592 | attesa pedoni=1.037 | veicoli arrivati=90 | pedoni arrivati=19 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 18 | reward=-9.480 | attesa veicoli=21.706 | attesa pedoni=1.900 | veicoli arrivati=107 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 19 | reward=-16.130 | attesa veicoli=23.000 | attesa pedoni=1.636 | veicoli arrivati=106 | pedoni arrivati=22 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 20 | reward=-12.800 | attesa veicoli=13.643 | attesa pedoni=0.933 | veicoli arrivati=91 | pedoni arrivati=28 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 21 | reward=-13.250 | attesa veicoli=18.250 | attesa pedoni=3.207 | veicoli arrivati=110 | pedoni arrivati=21 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 22 | reward=-17.650 | attesa veicoli=24.667 | attesa pedoni=0.346 | veicoli arrivati=100 | pedoni arrivati=17 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 23 | reward=-16.600 | attesa veicoli=17.725 | attesa pedoni=1.233 | veicoli arrivati=97 | pedoni arrivati=25 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 24 | reward=-7.720 | attesa veicoli=16.943 | attesa pedoni=2.783 | veicoli arrivati=104 | pedoni arrivati=22 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 25 | reward=-14.230 | attesa veicoli=20.825 | attesa pedoni=3.333 | veicoli arrivati=102 | pedoni arrivati=34 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 26 | reward=-10.630 | attesa veicoli=19.250 | attesa pedoni=2.871 | veicoli arrivati=109 | pedoni arrivati=28 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 27 | reward=-19.570 | attesa veicoli=21.574 | attesa pedoni=1.783 | veicoli arrivati=94 | pedoni arrivati=26 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 28 | reward=-15.570 | attesa veicoli=14.857 | attesa pedoni=1.966 | veicoli arrivati=93 | pedoni arrivati=20 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 29 | reward=-12.670 | attesa veicoli=28.515 | attesa pedoni=1.654 | veicoli arrivati=98 | pedoni arrivati=28 | teleport=0
+ Retrying in 1 seconds
+ Retrying in 1 seconds
+Episodio 30 | reward=-17.990 | attesa veicoli=19.077 | attesa pedoni=1.650 | veicoli arrivati=108 | pedoni arrivati=25 | teleport=0
+
+--- Risultati medi: DQN ---
+Reward totale: -6.049 ± 1.848
+Attesa media veicoli: 5.164 ± 3.303
+Attesa totale veicoli: 184.400 ± 104.551
+Attesa media pedoni: 0.382 ± 0.526
+Attesa totale pedoni: 11.467 ± 17.093
+Veicoli partiti: 145.867 ± 8.237
+Veicoli arrivati: 109.400 ± 8.118
+Pedoni partiti: 52.400 ± 5.783
+Pedoni arrivati: 23.767 ± 4.462
+Veicoli teletrasportati: 0.000 ± 0.000
+
+--- Risultati medi: Fixed traffic light ---
+Reward totale: -14.468 ± 4.363
+Attesa media veicoli: 19.962 ± 4.778
+Attesa totale veicoli: 795.600 ± 185.825
+Attesa media pedoni: 1.749 ± 0.944
+Attesa totale pedoni: 49.000 ± 27.983
+Veicoli partiti: 140.200 ± 8.187
+Veicoli arrivati: 100.100 ± 6.477
+Pedoni partiti: 52.533 ± 7.527
+Pedoni arrivati: 24.533 ± 4.696
+Veicoli teletrasportati: 0.000 ± 0.000
+
+--- Azioni medie scelte: DQN ---
+Azione 0: 12.43 ± 1.73
+Azione 1: 11.80 ± 1.35
+Azione 2: 0.53 ± 0.76
+Azione 3: 14.73 ± 3.86
+Azione 4: 0.00 ± 0.00
+Azione 5: 10.90 ± 4.01
+Azione 6: 9.60 ± 3.45
+
+--- Azioni medie scelte: Fixed traffic light ---
+Azione 0: 12.00 ± 0.00
+Azione 1: 8.00 ± 0.00
+Azione 2: 8.00 ± 0.00
+Azione 3: 8.00 ± 0.00
+Azione 4: 8.00 ± 0.00
+Azione 5: 8.00 ± 0.00
+Azione 6: 8.00 ± 0.00
+
+============================================================
+CONFRONTO DQN VS FIXED TRAFFIC LIGHT
+============================================================
+Reward                    | DQN:     -6.049 | Fixed:    -14.468
+Attesa media veicoli      | DQN:      5.164 | Fixed:     19.962
+Attesa totale veicoli     | DQN:    184.400 | Fixed:    795.600
+Attesa media pedoni       | DQN:      0.382 | Fixed:      1.749
+Attesa totale pedoni      | DQN:     11.467 | Fixed:     49.000
+Veicoli arrivati          | DQN:    109.400 | Fixed:    100.100
+Pedoni arrivati           | DQN:     23.767 | Fixed:     24.533
+Teletrasporti             | DQN:      0.000 | Fixed:      0.000

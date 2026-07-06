@@ -15,16 +15,21 @@ SCENARIO_DIR = PROJECT_DIR / "sumo_rl" / "nets" / "nostri"
 NET_FILE = SCENARIO_DIR / "cross.net.xml"
 ROUTE_FILE = SCENARIO_DIR / "cross_flows.rou.xml"
 
-# Modifica questo percorso se il modello si trova in un'altra cartella.
-MODEL_FILE = PROJECT_DIR / "outputs" / "nostri_7phases" / "dqn_baseline_model.zip"
+MODEL_FILE = (
+    PROJECT_DIR
+    / "outputs"
+    / "nostri_7phases"
+    / "dqn_200000_model.zip"
+)
 
 NUM_SECONDS = 300
 DELTA_TIME = 5
 NUM_EPISODES = 30
+FIXED_HOLD_STEPS = 4
 
 
 # ============================================================
-# Creazione dell'ambiente
+# Creazione ambiente
 # ============================================================
 
 def create_environment() -> SumoEnvironment:
@@ -41,13 +46,13 @@ def create_environment() -> SumoEnvironment:
 
 
 # ============================================================
-# Esecuzione di un episodio
+# Esecuzione episodio
 # ============================================================
 
 def run_episode(
     env: SumoEnvironment,
     model: DQN | None,
-    random_policy: bool = False,
+    policy_type: str,
 ) -> dict:
     observation, info = env.reset()
 
@@ -59,16 +64,23 @@ def run_episode(
     actions = []
 
     while not (terminated or truncated):
-        if random_policy:
-            action = env.action_space.sample()
-        else:
+        if policy_type == "dqn":
             action, _ = model.predict(
                 observation,
                 deterministic=True,
             )
+            action = int(np.asarray(action).item())
 
-        # Converte eventuali valori NumPy in un intero normale.
-        action = int(np.asarray(action).item())
+        elif policy_type == "fixed":
+            # Semaforo tradizionale ciclico:
+            # 0 -> 1 -> 2 -> ... -> ultima fase -> 0
+            action = (steps // FIXED_HOLD_STEPS) % env.action_space.n
+
+        else:
+            raise ValueError(
+                f"Policy non riconosciuta: {policy_type}"
+            )
+
         actions.append(action)
 
         observation, reward, terminated, truncated, info = env.step(action)
@@ -78,7 +90,7 @@ def run_episode(
 
     action_counts = {
         action: actions.count(action)
-        for action in sorted(set(actions))
+        for action in range(env.action_space.n)
     }
 
     return {
@@ -91,25 +103,22 @@ def run_episode(
             info.get("system_total_waiting_time", 0.0)
         ),
         "pedestrian_mean_waiting_time": float(
-            info.get(
-                "system_mean_waiting_time_pedestrians",
-                0.0,
-            )
+            info.get("system_mean_waiting_time_pedestrians", 0.0)
         ),
         "pedestrian_total_waiting_time": float(
-            info.get(
-                "system_total_waiting_time_pedestrians",
-                0.0,
-            )
+            info.get("system_total_waiting_time_pedestrians", 0.0)
         ),
         "arrived_vehicles": int(
             info.get("system_total_arrived", 0)
         ),
+        "departed_vehicles": int(
+            info.get("system_total_departed", 0)
+        ),
         "arrived_pedestrians": int(
-            info.get(
-                "system_total_arrived_pedestrians",
-                0,
-            )
+            info.get("system_total_arrived_pedestrians", 0)
+        ),
+        "departed_pedestrians": int(
+            info.get("system_total_departed_pedestrians", 0)
         ),
         "teleported": int(
             info.get("system_total_teleported", 0)
@@ -119,13 +128,13 @@ def run_episode(
 
 
 # ============================================================
-# Valutazione su più episodi
+# Valutazione policy
 # ============================================================
 
 def evaluate_policy(
     model: DQN | None,
     policy_name: str,
-    random_policy: bool = False,
+    policy_type: str,
 ) -> list[dict]:
     results = []
 
@@ -140,16 +149,17 @@ def evaluate_policy(
             result = run_episode(
                 env=env,
                 model=model,
-                random_policy=random_policy,
+                policy_type=policy_type,
             )
             results.append(result)
 
             print(
                 f"Episodio {episode:2d} | "
                 f"reward={result['reward']:.3f} | "
-                f"attesa media={result['mean_waiting_time']:.3f} | "
+                f"attesa veicoli={result['mean_waiting_time']:.3f} | "
                 f"attesa pedoni={result['pedestrian_mean_waiting_time']:.3f} | "
-                f"arrivi={result['arrived_vehicles']} | "
+                f"veicoli arrivati={result['arrived_vehicles']} | "
+                f"pedoni arrivati={result['arrived_pedestrians']} | "
                 f"teleport={result['teleported']}"
             )
 
@@ -160,7 +170,7 @@ def evaluate_policy(
 
 
 # ============================================================
-# Riepilogo
+# Riepilogo risultati
 # ============================================================
 
 def print_summary(
@@ -175,7 +185,9 @@ def print_summary(
         "Attesa totale veicoli": "total_waiting_time",
         "Attesa media pedoni": "pedestrian_mean_waiting_time",
         "Attesa totale pedoni": "pedestrian_total_waiting_time",
+        "Veicoli partiti": "departed_vehicles",
         "Veicoli arrivati": "arrived_vehicles",
+        "Pedoni partiti": "departed_pedestrians",
         "Pedoni arrivati": "arrived_pedestrians",
         "Veicoli teletrasportati": "teleported",
     }
@@ -191,21 +203,54 @@ def print_summary(
 
 
 # ============================================================
+# Distribuzione azioni
+# ============================================================
+
+def print_action_distribution(
+    policy_name: str,
+    results: list[dict],
+) -> None:
+    print(f"\n--- Azioni medie scelte: {policy_name} ---")
+
+    all_actions = sorted(
+        {
+            action
+            for result in results
+            for action in result["action_counts"]
+        }
+    )
+
+    for action in all_actions:
+        values = [
+            result["action_counts"].get(action, 0)
+            for result in results
+        ]
+
+        print(
+            f"Azione {action}: "
+            f"{np.mean(values):.2f} "
+            f"± {np.std(values):.2f}"
+        )
+
+
+# ============================================================
 # Confronto finale
 # ============================================================
 
 def compare_results(
     dqn_results: list[dict],
-    random_results: list[dict],
+    fixed_results: list[dict],
 ) -> None:
     print("\n" + "=" * 60)
-    print("CONFRONTO DQN VS RANDOM")
+    print("CONFRONTO DQN VS FIXED TRAFFIC LIGHT")
     print("=" * 60)
 
     comparisons = {
         "Reward": "reward",
         "Attesa media veicoli": "mean_waiting_time",
+        "Attesa totale veicoli": "total_waiting_time",
         "Attesa media pedoni": "pedestrian_mean_waiting_time",
+        "Attesa totale pedoni": "pedestrian_total_waiting_time",
         "Veicoli arrivati": "arrived_vehicles",
         "Pedoni arrivati": "arrived_pedestrians",
         "Teletrasporti": "teleported",
@@ -215,14 +260,14 @@ def compare_results(
         dqn_mean = np.mean(
             [result[key] for result in dqn_results]
         )
-        random_mean = np.mean(
-            [result[key] for result in random_results]
+        fixed_mean = np.mean(
+            [result[key] for result in fixed_results]
         )
 
         print(
             f"{label:25s} | "
             f"DQN: {dqn_mean:10.3f} | "
-            f"Random: {random_mean:10.3f}"
+            f"Fixed: {fixed_mean:10.3f}"
         )
 
 
@@ -246,7 +291,12 @@ def main() -> None:
             f"Modello DQN non trovato: {MODEL_FILE}"
         )
 
-    print(f"Caricamento modello: {MODEL_FILE}")
+    print(f"Rete: {NET_FILE}")
+    print(f"Route: {ROUTE_FILE}")
+    print(f"Modello DQN: {MODEL_FILE}")
+    print(f"Episodi: {NUM_EPISODES}")
+    print(f"Durata simulazione: {NUM_SECONDS} secondi")
+    print(f"Delta time: {DELTA_TIME} secondi")
 
     model = DQN.load(
         str(MODEL_FILE),
@@ -256,21 +306,24 @@ def main() -> None:
     dqn_results = evaluate_policy(
         model=model,
         policy_name="DQN",
-        random_policy=False,
+        policy_type="dqn",
     )
 
-    random_results = evaluate_policy(
+    fixed_results = evaluate_policy(
         model=None,
-        policy_name="Random",
-        random_policy=True,
+        policy_name="Fixed traffic light",
+        policy_type="fixed",
     )
 
     print_summary("DQN", dqn_results)
-    print_summary("Random", random_results)
+    print_summary("Fixed traffic light", fixed_results)
+
+    print_action_distribution("DQN", dqn_results)
+    print_action_distribution("Fixed traffic light", fixed_results)
 
     compare_results(
         dqn_results=dqn_results,
-        random_results=random_results,
+        fixed_results=fixed_results,
     )
 
 
